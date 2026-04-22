@@ -16,7 +16,7 @@
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 | | |
 |---|---|
@@ -27,7 +27,7 @@
 
 ---
 
-## 📋 About This Project
+## About This Project
 
 A **Product Management System API** built as a laboratory activity for the course. The API is built using **ASP.NET Core** and supports full **CRUD operations** (Create, Read, Update, Delete) for four models: Products, Categories, Suppliers, and Customers.
 
@@ -61,7 +61,7 @@ ProductAPIDemo/
 
 ---
 
-## 🔗 Model Relationships
+## Model Relationships
 
 ```
 ┌──────────────┐         ┌──────────────────┐
@@ -94,7 +94,7 @@ ProductAPIDemo/
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 
 Make sure you have the following installed before running the project:
 
@@ -104,12 +104,12 @@ Make sure you have the following installed before running the project:
 
 ---
 
-## 🚀 Setup Guide
+## Setup Guide
 
 ### Step 1 — Install the Required Tools
 
 <details>
-<summary><b>📦 Install .NET 10 SDK</b></summary>
+<summary><b> Install .NET 10 SDK</b></summary>
 
 1. Go to https://dotnet.microsoft.com/en-us/download
 2. Download and run the **.NET 10** installer
@@ -122,7 +122,7 @@ Make sure you have the following installed before running the project:
 </details>
 
 <details>
-<summary><b>🗄️ Install SQL Server Express</b></summary>
+<summary><b> Install SQL Server Express</b></summary>
 
 1. Go to https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 2. Scroll down and click **Download** under **Express**
@@ -132,7 +132,7 @@ Make sure you have the following installed before running the project:
 </details>
 
 <details>
-<summary><b>🖥️ Install Visual Studio 2022</b></summary>
+<summary><b> Install Visual Studio 2022</b></summary>
 
 1. Go to https://visualstudio.microsoft.com/
 2. Download **Visual Studio 2022 Community** (free)
@@ -210,9 +210,9 @@ https://localhost:{port}/swagger
 
 ---
 
-## 🧪 Testing the API
+## Testing the API
 
-### ✅ Using Swagger (Built-in)
+### Using Swagger (Built-in)
 
 Once the project is running, Swagger UI opens automatically. You'll see all four controllers listed.
 
@@ -245,7 +245,7 @@ Once the project is running, Swagger UI opens automatically. You'll see all four
 
 ---
 
-### 📬 Using Postman (Optional)
+### Using Postman (Optional)
 
 1. Download Postman at https://www.postman.com/downloads/
 2. Click **New → HTTP Request**
@@ -258,7 +258,7 @@ Once the project is running, Swagger UI opens automatically. You'll see all four
 
 ---
 
-## 📡 API Endpoints
+## API Endpoints
 
 ### 🛒 Products `/api/products`
 | Method | Endpoint | Description |
@@ -269,7 +269,7 @@ Once the project is running, Swagger UI opens automatically. You'll see all four
 | `PUT` | `/api/products/{id}` | Update a product |
 | `DELETE` | `/api/products/{id}` | Delete a product |
 
-### 🏷️ Categories `/api/categories`
+### Categories `/api/categories`
 | Method | Endpoint | Description |
 |--------|----------|-------------|
 | `GET` | `/api/categories` | Get all categories |
@@ -278,7 +278,7 @@ Once the project is running, Swagger UI opens automatically. You'll see all four
 | `PUT` | `/api/categories/{id}` | Update a category |
 | `DELETE` | `/api/categories/{id}` | Delete a category |
 
-### 🏭 Suppliers `/api/suppliers`
+### Suppliers `/api/suppliers`
 | Method | Endpoint | Description |
 |--------|----------|-------------|
 | `GET` | `/api/suppliers` | Get all suppliers |
@@ -287,7 +287,7 @@ Once the project is running, Swagger UI opens automatically. You'll see all four
 | `PUT` | `/api/suppliers/{id}` | Update a supplier |
 | `DELETE` | `/api/suppliers/{id}` | Delete a supplier |
 
-### 👥 Customers `/api/customers`
+### Customers `/api/customers`
 | Method | Endpoint | Description |
 |--------|----------|-------------|
 | `GET` | `/api/customers` | Get all customers |
@@ -298,7 +298,7 @@ Once the project is running, Swagger UI opens automatically. You'll see all four
 
 ---
 
-## 🛠️ Troubleshooting
+## Troubleshooting
 
 | Problem | Solution |
 |---------|----------|
@@ -311,6 +311,6 @@ Once the project is running, Swagger UI opens automatically. You'll see all four
 
 <div align="center">
 
-Made with 💜 by **Jana Melissa V. Regondola** · BS Information Technology 3A
+Made by **Jana Melissa V. Regondola** · BS Information Technology 3A
 
 </div>
