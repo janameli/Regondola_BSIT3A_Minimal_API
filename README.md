@@ -1,7 +1,7 @@
 <div align="center">
 
 ```
-         P R O D U C T  M A N A G E M E N T   S Y S T E M   A P I
+              **P R O D U C T  M A N A G E M E N T   S Y S T E M   A P I
 ```
 
 **ASP.NET Core Web API** · **Entity Framework Core** · **SQL Server** · **Swagger**
@@ -308,9 +308,3 @@ Once the project is running, Swagger UI opens automatically. You'll see all four
 | `SSL error in Postman` | Go to **Settings → General** and turn off **SSL Certificate Verification** |
 
 ---
-
-<div align="center">
-
-Made by **Jana Melissa V. Regondola** · BS Information Technology 3A
-
-</div>
