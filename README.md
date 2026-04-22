@@ -1,7 +1,7 @@
 <div align="center">
 
 ```
-              **P R O D U C T  M A N A G E M E N T   S Y S T E M   A P I
+              P R O D U C T  M A N A G E M E N T   S Y S T E M   A P I
 ```
 
 **ASP.NET Core Web API** · **Entity Framework Core** · **SQL Server** · **Swagger**
