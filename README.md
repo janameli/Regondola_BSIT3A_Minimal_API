@@ -4,6 +4,12 @@ A multi-model ASP.NET Core Web API built with Entity Framework Core and SQL Serv
 
 ---
 
+## Lab Activity
+
+**Course:** ASP.NET Core Web API with Entity Framework Core  
+**Activity:** Multi-Model Web API with CRUD Operations  
+**Objective:** Enhance a basic Web API project by adding three additional models and implementing complete CRUD operations for each.
+
 ## Tech Stack
 
 - ASP.NET Core Web API (.NET 10)
@@ -142,8 +148,3 @@ Section: 3A
 GitHub Repository: [https://github.com/janameli/Regondola_BSIT3A_Minimal_API]
 ---
 
-## Lab Activity
-
-**Course:** ASP.NET Core Web API with Entity Framework Core  
-**Activity:** Multi-Model Web API with CRUD Operations  
-**Objective:** Enhance a basic Web API project by adding three additional models and implementing complete CRUD operations for each.
